@@ -28,4 +28,4 @@ spec:
       containers:
         - name: hello
           image: bharathnjn/newimage:latest
-          imagePullPolicy: Always
+          imagePullPolicy: Alway
